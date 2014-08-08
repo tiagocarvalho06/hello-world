@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-hello gitHub world repo
+Hi everyone i'm just learning how to use gitHub woth the hello-world tutorial.
